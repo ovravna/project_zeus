@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6540166777033802020}
   - component: {fileID: 7496262864174491686}
   - component: {fileID: 1469193338255038905}
+  - component: {fileID: 4697918591752812158}
   m_Layer: 0
   m_Name: My3DMouseCursor
   m_TagString: Untagged
@@ -99,3 +100,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 1
+--- !u!114 &4697918591752812158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1672663384889818642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcae9465ff8a146e08f2acc1c6d5498b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
