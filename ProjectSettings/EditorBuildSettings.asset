@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Passthough_test.unity
     guid: 9af79d3ba0e4b4d4e9e315e788bc8f31
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/KeyboardInputScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: dd8432bb2306b4bc199427a2335bf1fd, type: 2}
